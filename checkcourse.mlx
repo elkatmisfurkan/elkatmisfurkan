@@ -102,4 +102,31 @@ c.Level = 42;
 
 %c.Level'ın 42 olarak güncelledim
 
+c = course;
+c.Name = "Family Fun";
+c.Level = "White";
+c.Waypoints = [42 123 124 163 168 666];
+
+id = idstick;
+id.SerialNumber = 1234
+
+Task 2
+idout = register(id,"Erik",c)
+
+
+Task 3
+p1 = id.Participant
+p2 = idout.Participant
+
+
+Further Practice
+function id = register(id,name,course)
+    id.Participant = name;
+    id.Course = course;
+    id.Timestamps = NaT(size(course.Waypoints));
+    id.Status = "Ready";
+    signal(id,true)
+end
+
+
 
