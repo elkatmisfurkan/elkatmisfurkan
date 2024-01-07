@@ -1,0 +1,105 @@
+% Bölüm 2
+w = [42 123 124 163 168 666];
+
+% Task 1
+% Ad, zorluk seviyesi ve bir dizi sayı biçiminde ara noktaların listesiyle tanımladım 
+c= course("Family Fun","White",w );
+ 
+
+% Task 2
+% 123456 seri nolu kişiye Sınıf Atadım 
+id= idstick(123456);
+
+% Task 3
+% whos komutu ile değişkenlerin bilgilerini görüntüledim 
+whos 
+
+% Task 4
+% Ozeliklerini ve yöntemlerini sıarladım
+properties(id)
+
+methods(id)
+
+% Task 5
+% Astridi kursa kaydettim
+id = register(id,"Astrid",c);
+
+% Task 6
+% astridin kaydını kontrol ettim 
+id = checkWaypoint(id,42);
+
+% Further Practice kontrol ve test
+id = checkWaypoint(id,123);
+id = checkWaypoint(id,163);
+id.Timestamps;
+
+
+% Bölüm = 3
+
+
+w1 = [42 123 124 163 168 666];
+w2 = [42 112:123 666];
+
+c = course("Family Fun","White",w1);
+whos c
+
+% Task 1
+% kurs tanımladım 
+c(2) = course("Insanity","Red",w2);
+
+
+% Task 2
+% numara tanımladım 
+id = idstick([123456,567890,987654]);
+
+
+% Task 3
+% astridi kaydettim 
+
+id(1) = register(id(1),"Astrid",c(1));
+
+
+% Task 4
+% eriki kaydetim 
+
+id(2) = register(id(2),"Erik",c(1));
+
+
+% Task 5
+% Astridin kaydını 42 ye atadık (emin olmamakla birlikde)
+id(1) = checkWaypoint(id(1),42);
+
+
+
+% Further Practice
+% sistemi denedik 
+% Astrid
+id(1) = checkWaypoint(id(1),123);
+% Now Erik starts
+id(2) = checkWaypoint(id(2),42);
+% Astrid again
+id(1) = checkWaypoint(id(1),124);
+id(1) = checkWaypoint(id(1),163);
+% Erik
+id(2) = checkWaypoint(id(2),123);
+% Astrid's times
+id(1).Timestamps
+% Erik's times
+id(2).Timestamps
+
+% Creating Custom ClassesCreating a New Class(2/2) Creating a Class
+% Definition Bölümü 
+
+
+c = Course;
+lvl = c.Level;
+% Bu MATLAB kodunda, c değişkenine bir "Course" nesnesi atadım
+
+c.Level = 'White';
+% Bu satırda, c nesnesinin Level özelliği "White" metniyle günceledim
+
+c.Level = 42;
+
+%c.Level'ın 42 olarak güncelledim
+
+
