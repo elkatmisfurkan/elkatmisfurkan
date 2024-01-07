@@ -129,4 +129,20 @@ function id = register(id,name,course)
 end
 
 
+w = [42 123 124 163 168 666];
+
+Task 2
+id = idstick(54321)
+
+
+Task 4
+
+c = course("Family Fun","White",w);
+
+Further Practice
+
+id = register(id,"Erik",c)
+w = [42 112:123 666];
+c2 = course("Insanity","Red",w);
+id = register(id,"Erik",c2)
 
