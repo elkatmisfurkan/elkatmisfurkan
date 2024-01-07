@@ -146,3 +146,40 @@ w = [42 112:123 666];
 c2 = course("Insanity","Red",w);
 id = register(id,"Erik",c2)
 
+Property Access
+Make a course
+w = [42 123 124 163 168 666];
+
+c = course("Family Fun","White",w)
+Properties can be accessed
+level = c.Level
+wout = c.Waypoints
+
+But not modified
+% Should fail
+c.Level = "Yellow"
+
+ID Stick
+id = idstick(12345)
+
+Property access
+sn = id.SerialNumber
+% Should fail
+id.SerialNumber = 54321
+
+% Should fail
+id.Course = course("Shouldn't Be Allowed","Red",5:10)
+
+Methods can still access & modify properties
+id = register(id,"Erik",c)
+
+The Status property can be invisible to the user
+% Should fail
+s = id.Status
+
+Restrict access to some methods
+% Should fail
+id = updateStatus(id,124)
+
+% Should fail
+signal(id,false)
