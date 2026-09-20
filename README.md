@@ -32,10 +32,10 @@ Teknoloji ve uluslararası iş birliklerini bir araya getirerek Avrupa temalı i
 
 <div align="center">
   <a href="https://github.com/elkatmisfurkan">
-    <img src="https://github-readme-stats.vercel.app/api?username=elkatmisfurkan&show_icons=true&theme=tokyonight&locale=tr" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=elkatmisfurkan&amp;show_icons=true&amp;theme=tokyonight&amp;locale=tr" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/elkatmisfurkan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkatmisfurkan&layout=compact&theme=tokyonight&locale=tr" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkatmisfurkan&amp;layout=compact&amp;theme=tokyonight&amp;locale=tr" height="195" alt="Top Languages" />
   </a>
 </div>
 
