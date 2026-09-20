@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Erasmus%20Coordinator%20%7C%20Tech%20Enthusiast&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Leading%20European-Themed%20Innovation%20Projects&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Erasmus%20Coordinator%20%26%20Tech%20Enthusiast&fontSize=35&animation=fadeIn&fontAlignY=42&desc=Leading%20European-Themed%20Innovation%20Projects&descAlignY=56&descSize=20" width="100%" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Erasmus%2B+Project+Coordinator;European-Themed+Innovation;Python+%26+Flutter+Developer;IT+Systems+Specialist)](https://git.io/typing-svg)
   
@@ -21,8 +21,13 @@ Teknoloji ve uluslararası iş birliklerini bir araya getirerek Avrupa temalı i
 
 ### 🛠️ Teknolojiler & Yetkinlikler
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flutter,dart,git,github,vscode" />
+  </a>
+</p>
+
 - **Proje Yönetimi:** Erasmus+, TÜBİTAK Hibeleri, PCM, Saha Operasyonları, Kriz Yönetimi ve Uluslararası İş Birlikleri
-- **Yazılım & Araçlar:** Python, Flutter, Veri Analizi
 - **Uzmanlık Alanları:** Avrupa Temalı Projeler, Dijital Kalkınma, Yapay Zeka, Tarım 4.0
 
 ### 📊 GitHub İstatistiklerim
