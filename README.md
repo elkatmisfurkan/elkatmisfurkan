@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Erasmus%20Coordinator%20%26%20Tech%20Enthusiast&fontSize=35&animation=fadeIn&fontAlignY=42&desc=Leading%20European-Themed%20Innovation%20Projects&descAlignY=56&descSize=20" width="100%" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Erasmus%2B+Project+Coordinator;European-Themed+Innovation;Python+%26+Flutter+Developer;IT+Systems+Specialist)](https://git.io/typing-svg)
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=elkatmisfurkan&color=blue&style=flat-square&label=Ziyaretçi+Sayısı)
 </div>
 
 ---
