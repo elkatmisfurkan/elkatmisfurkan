@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Erasmus%20Coordinator%20%26%20Tech%20Enthusiast&fontSize=35&animation=fadeIn&fontAlignY=42&desc=Leading%20European-Themed%20Innovation%20Projects&descAlignY=56&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Erasmus%20Coordinator%20%7C%20Tech%20Enthusiast&amp;fontSize=35&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Leading%20European-Themed%20Innovation%20Projects&amp;descAlignY=56&amp;descSize=20" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Erasmus%2B+Project+Coordinator;European-Themed+Innovation;Python+%26+Flutter+Developer;IT+Systems+Specialist)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Erasmus%2B+Project+Coordinator;European-Themed+Innovation;Python+ve+Flutter+Developer;IT+Systems+Specialist)](https://git.io/typing-svg)
 </div>
 
 ---
